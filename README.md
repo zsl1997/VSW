@@ -5,7 +5,7 @@ Vehicle search in the Wild: A New Benchmark
 - This repository contains the VSW dataset for the following paper：[Unsupervised Vehicle search in the Wild: A New Benchmark (ACM MM 2021)](https://dl.acm.org/doi/10.1145/3474085.3475654). 
 - Vehicle search is a crucial part of the city's surveillance system. However, existing research does not fully explore end-to-end vehicle search. Instead, VSW aims to advance the task of vehicle search and benefit traffic regulation and criminal investigations.
 
-- You can download xxx. This dataset is for research purposes only and therefore not for commercial use.
+- Here . This dataset is for research purposes only and therefore not for commercial use.
 
 - If you have any questions about the VSW dataset, please contact z292003@whut.edu.cn.
 
