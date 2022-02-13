@@ -10,7 +10,7 @@ Vehicle search in the Wild: A New Benchmark
 - If you have any questions about the VSW dataset, please contact z292003@whut.edu.cn.
 
 - VSW for vehicle search.
-![](https://github.com/xiaowang1516/NightSurveillance/blob/master/1.png)
+![](https://github.com/zsl1997/VSW/blob/main/1.png)
 
 ## Description
 Note that, we publish only part of the data, also for the initial version. It contains 76,387 frames and 475 ids. We split the dataset into a train and a test subset, ensuring no overlapped images or labeled identities between them. The train set contains 38,280 frames and 254 training IDs, the first 99 are cross-camera ids. The test set contains 38,280 frames and 254 training IDs, the first 97 are cross-camera ids. Then for each vehicle in the test set, we randomly select two bounding boxes as query vehicles under each camera.
