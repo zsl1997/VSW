@@ -18,17 +18,17 @@ Note that, we publish only part of the data, also for the initial version. It co
 - This dataset is organized as follows:
 ```
 
-├── annotations                    # Annotation of frames
+├── annotations               # Annotation of frames
 │   ├── */*.mat                       
 ├── frames                    # the vehicle frames
 │   ├── */*.jpg                        
-├── query                    # query set
+├── query                     # query set
 │   ├── */*.jpg               
-├── frame_train.mat            # frames for model training
-├── frame_test.mat              # frames for model testing
-├── ID_train.mat                  # IDs for model training
-├── ID_test.mat                    # IDs for model testing
-├── query_info.txt                # query set
+├── frame_train.mat           # frames for model training
+├── frame_test.mat            # frames for model testing
+├── ID_train.mat              # IDs for model training
+├── ID_test.mat               # IDs for model testing
+├── query_info.txt            # query set
 
 ```
 
