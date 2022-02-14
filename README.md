@@ -7,7 +7,7 @@ Vehicle search in the Wild: A New Benchmark
 
 - Here . This dataset is for research purposes only and therefore not for commercial use.
 
-- If you have any questions about the VSW dataset, please contact z292003@whut.edu.cn.
+- If you have any questions about the VSW dataset, please contact zhongx@whut.edu.cn.
 
 - VSW for vehicle search.
 - ![](https://github.com/zsl1997/VSW/blob/main/1.png)
